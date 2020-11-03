@@ -1,0 +1,4 @@
+﻿  4-4-2.cpp
+4-4.obj : error LNK2005: "float __cdecl f(float)" (?f@@YAMM@Z) 已经在 4-4-2.obj 中定义
+4-4.obj : error LNK2005: _main 已经在 4-4-2.obj 中定义
+C:\Users\Daniel\Desktop\programe\C++\31902034郑有才实验4\实验4\Debug\实验4-4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
