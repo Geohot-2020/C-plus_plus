@@ -1,7 +1,2 @@
 ﻿  10-6.cpp
-c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(16): error C2572: “date::date”: 重定义默认参数 : 参数 1
-  c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(11): note: 参见“date::date”的声明
-c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(16): error C2572: “date::date”: 重定义默认参数 : 参数 2
-  c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(11): note: 参见“date::date”的声明
-c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(16): error C2572: “date::date”: 重定义默认参数 : 参数 3
-  c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(11): note: 参见“date::date”的声明
+c:\users\daniel\desktop\programe\c++\31902034郑有才实验8\实验8\实验10-6\10-6.cpp(34): error C2228: “.print”的左边必须有类/结构/联合

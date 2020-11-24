@@ -28,8 +28,8 @@ void date::print()
 
 int main()
 {
-	date A(2012, 5, 12), B(2013);
-	//date A(2012,10), B();	//不可通过
+	//date A(2012, 5, 12), B(2013);
+	date A(2012,10), B();	//不可通过
 	A.print();
 	B.print();
 	return 0;
